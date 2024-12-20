@@ -1,4 +1,4 @@
-Live Preview: https://ubiquitous-dragon-7e561a.netlify.app
+Live Preview: https://smoothiescar.netlify.app
 
 
 # Getting Started with Create React App
